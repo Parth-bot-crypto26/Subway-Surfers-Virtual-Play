@@ -79,14 +79,19 @@ Automatic Action: The system will:
 
 
 **Step 3: Game Controls**
-| **Action**       | **Body Gesture**                               | **Keyboard Equivalent** |
-|------------------|----------------------------------------|                                 |
-| ReactJS           | Frontend framework                    |                                 |
-| JSX, HTML, CSS    | Structure & styling                   |                                 |
-| Firebase          | Auth & database                        |                                |
-| Framer Motion     | Smooth animations                      |                                |
-| GSAP              | Mascot animations                      |                                |
-| Responsive Design | Mobile & desktop support               |                                |
+| **Action**       | **Body Gesture**                               |
+|------------------|----------------------------------------|                                 
+| ReactJS           | Frontend framework                    |                                 
+| JSX, HTML, CSS    | Structure & styling                   |                                 
+| Firebase          | Auth & database                        |                                
+| Framer Motion     | Smooth animations                      |                                
+| GSAP              | Mascot animations                      |                                
+| Responsive Design | Mobile & desktop support               |                                
+
+
+
+
+
 **Action**             **Body Gesture**                        **Keyboard Equivalent**
 Move Left              Lean your body to the left                    Left Arrow
 Move Right             Lean you body to the right                    Right Arrow
