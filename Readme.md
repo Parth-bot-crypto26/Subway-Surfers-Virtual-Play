@@ -84,7 +84,7 @@ Automatic Action: The system will:
 | Move Left        | Lean your body to the left             |                                 
 | Move Right       | Lean you body to the right             |                                 
 | Stay in Lane     | Stand straight in the center           |                                
-| Jump             | Stand tall or Jump(Shoulders move up)  |                                
+| Jump             | Stand tall or Jump (Shoulders move up) |                                
 | Roll/Duck        | Crouch down (Shoulders move down)      |                                
 
 
