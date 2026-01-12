@@ -29,13 +29,19 @@ Using **MediaPipe Pose**, **OpenCV**, and **PyAutoGUI**, the system detects huma
 
 ### 1. Clone the Repository
 Open your terminal or command prompt and run:
+
 bash
+
 git clone (https://github.com/Parth-bot-crypto26/Subway-Surfers-Pose-Control.git)
+
 cd subway-surfers-pose-control
 
 ### 2. Run the Controller
+
 Execute the main script to start the webcam feed and gesture recognition system:
-Bash
+
+bash
+
 python main.py
 
 
