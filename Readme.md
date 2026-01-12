@@ -79,25 +79,14 @@ Automatic Action: The system will:
 
 
 **Step 3: Game Controls**
-| **Action**       | **Body Gesture**                               |
+| **Action**       | **Body Gesture**                       |
 |------------------|----------------------------------------|                                 
-| ReactJS           | Frontend framework                    |                                 
-| JSX, HTML, CSS    | Structure & styling                   |                                 
-| Firebase          | Auth & database                        |                                
-| Framer Motion     | Smooth animations                      |                                
-| GSAP              | Mascot animations                      |                                
-| Responsive Design | Mobile & desktop support               |                                
+| Move Left        | Lean your body to the left             |                                 
+| Move Right       | Lean you body to the right             |                                 
+| Stay in Lane     | Stand straight in the center           |                                
+| Jump             | Stand tall or Jump(Shoulders move up)  |                                
+| Roll/Duck        | Crouch down (Shoulders move down)      |                                
 
-
-
-
-
-**Action**             **Body Gesture**                        **Keyboard Equivalent**
-Move Left              Lean your body to the left                    Left Arrow
-Move Right             Lean you body to the right                    Right Arrow
-Stay in Lane           Stand straight in the center                   (No Key)
-   Jump                Stand tall or Jump(Shoulders move up)          Up Arrow
- Roll/Duck             Crouch down (Shoulders move down)              Down Arrow
 
 **💡 Pro Tip:** Try to return to a neutral "Standing" position in the center after dodging obstacles to reset your movement
 
