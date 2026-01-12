@@ -25,18 +25,6 @@ Using **MediaPipe Pose**, **OpenCV**, and **PyAutoGUI**, the system detects huma
 
 ---
 
-## 📁 Project Structure
-Subway Surfers/
-│
-├── pose_utils.py # Pose detection logic
-├── gesture_utils.py # Gesture detection functions
-├── main.py # Final application (game controller)
-├── requirements.txt
-└── README.md
-
-
----
-
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
